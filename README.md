@@ -1,3 +1,3 @@
 # flutter_exercises
-Aplicações em Flutter Desenvolvidas durante curso.
+Aplicações em Flutter desenvolvidas durante curso.
 Flutter apps developed during the course.
